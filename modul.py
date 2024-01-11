@@ -1,5 +1,4 @@
 class OOP: 
-      
     # methods 
     def add(self, a, b): 
         return a + b 
