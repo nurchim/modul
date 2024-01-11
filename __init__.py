@@ -1,1 +1,1 @@
-from .modul import *
+from .contoh import *
